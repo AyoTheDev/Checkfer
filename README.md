@@ -12,7 +12,7 @@ layers/modules:
 * **Domain**, this layer contains the business logic and data model entities. The point of this layer is to have a standard set of objects that can be reused within
 different projects
 
-* Unit tests have been written for the ViewModel and the usecases.
+* Unit tests have been written for the ViewModel, usecases and the Api Error handler.
 
 * The project adheres to the SOLID OOP principles in the following way:
   
